@@ -10,3 +10,4 @@ A video showing the models being used is also available:
 
 [https://www.youtube.com/watch?v=d9M_FdIjZcQ](https://www.youtube.com/watch?v=d9M_FdIjZcQ)
 
+Note: Running of these models requires access to data held by Network Rail.
